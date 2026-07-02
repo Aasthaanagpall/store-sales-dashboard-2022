@@ -5,60 +5,60 @@ An interactive Excel dashboard analyzing a year of retail sales data across mult
 
 🎯 Objective
 To analyze one year of e-commerce sales data and answer key business questions:
-1. Sales Trend
+1. Sales Trend:
 Which months drive the highest sales and orders?
 
-2. Customer Demographics
+2. Customer Demographics:
 Who are our customers (gender, age group)?
 
-3. Geographic & Channel Performance
+3. Geographic & Channel Performance:
 Which states and channels contribute most to revenue?
 
-4. B2B Utilization
+4. B2B Utilization:
 Is the B2B segment being fully utilized?
 
-5. Order Value
+5. Order Value:
 Which sales channel delivers the highest value per order?
 
 🛠️ Tools & Skills Used
-1. Microsoft Excel
+1. Microsoft Excel:
 PivotTables, PivotCharts, Slicers
 
-2. Power Query / Formulas
+2. Power Query / Formulas:
 Data cleaning (e.g., PROPER() for city name casing, duplicate handling)
 
-3. Data Visualization
+3. Data Visualization:
 Combo charts, pie charts, donut charts, clustered column charts
 
-4. Excel Formulas
+4. Excel Formulas:
 Value field calculations (Sum, Count, Average)
 
 📈 Dashboard Features
 1. Interactive Slicers
 Month, Delivery Platform, Category
 
-2. Sales vs Orders
+2. Sales vs Orders:
 Combo chart comparing monthly sales and order count
 
-3. Orders by Age Group & Gender
+3. Orders by Age Group & Gender:
 Breakdown of customer demographics
 
-4. Sales Split — Men vs Women
+4. Sales Split — Men vs Women:
 Gender-wise revenue contribution
 
-5. Order Status Breakdown
+5. Order Status Breakdown:
 Delivered / Cancelled / Refunded / Returned
 
-6. Top 5 States by Sales
+6. Top 5 States by Sales:
 Highest revenue-generating states
 
-7. Channel-wise Sales Distribution
+7. Channel-wise Sales Distribution:
 Donut chart across platforms
 
-8. B2B vs B2C Total Sales (custom analysis)
+8. B2B vs B2C Total Sales (custom analysis):
 Comparing business vs individual customer sales
 
-9. Channel-wise Average Order Value (custom analysis)
+9. Channel-wise Average Order Value (custom analysis):
 AOV comparison across platforms
 
 🔍 Key Insights - 
