@@ -19,16 +19,16 @@ Data Visualization — Combo charts, pie charts, donut charts, clustered column 
 Excel Formulas — Value field calculations (Sum, Count, Average)
 
 📈 Dashboard Features - 
-3 Interactive Slicers: Month, Delivery Platform, Category
+3 Interactive Slicers: (Month, Delivery Platform, Category),
 9 Visualizations, including:
-Sales vs Orders
-Orders by Age Group & Gender
-Sales split — Men vs Women
-Order Status breakdown (Delivered/Cancelled/Refunded/Returned)
-Top 5 States by Sales
-Channel-wise Sales Distribution (donut chart)
-B2B vs B2C Total Sales (custom analysis)
-Channel-wise Average Order Value (custom analysis)
+Sales vs Orders,
+Orders by Age Group & Gender,
+Sales split — Men vs Women,
+Order Status breakdown (Delivered/Cancelled/Refunded/Returned),
+Top 5 States by Sales,
+Channel-wise Sales Distribution (donut chart),
+B2B vs B2C Total Sales (custom analysis),
+Channel-wise Average Order Value (custom analysis),
 
 🔍 Key Insights - 
 1. Sales Trend March recorded the highest sales (₹19.5L+), while November-December saw the lowest, indicating a year-end slowdown. The store should run promotional campaigns during October-December to boost demand in this low-sales phase.
